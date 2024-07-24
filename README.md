@@ -87,6 +87,8 @@ dependencies based on
 the platform you want to automate tests for.
 In the next lines you will install this different dependencies.
 
+Run on terminal the command: `appium driver install uiautomator2` to install a necessary driver.
+
 ### Android
 
 Install Android Studio following the instructions on https://developer.android.com/studio/install.
@@ -125,7 +127,7 @@ Locate the file named "Zscaler_ADMIN_Update_Java_CACERTS.exe ", download it to y
 
 Create a new folder and clone the Repository:
 
-`git clone https://github.com/raunelgarcia/mobile-framework.git`
+`git clone https://github.com/raunelgarcia/front-end-automation.git`
 
 Open Project in IntelliJ IDEA:
 
